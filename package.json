@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple node.js personal project."
+}
